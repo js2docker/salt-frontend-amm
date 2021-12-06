@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from '@pancakeswap-libs/sdk'
+import { Currency, ETHER, JSBI, TokenAmount } from '@domgeswap-libs/sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from '@saltswap/uikit'
 import CardNav from 'components/CardNav'

@@ -1,4 +1,4 @@
-import { ChainId } from '@pancakeswap-libs/sdk'
+import { ChainId } from '@domgeswap-libs/sdk'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Button, LinkExternal } from '@saltswap/uikit'

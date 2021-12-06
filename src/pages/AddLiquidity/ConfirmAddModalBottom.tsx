@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@pancakeswap-libs/sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@domgeswap-libs/sdk'
 import React from 'react'
 import { Button } from '@saltswap/uikit'
 import { RowBetween, RowFixed } from '../../components/Row'

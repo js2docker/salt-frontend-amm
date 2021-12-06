@@ -1,4 +1,4 @@
-import { Token } from '@pancakeswap-libs/sdk'
+import { Token } from '@domgeswap-libs/sdk'
 import { transparentize } from 'polished'
 import { Button, Text } from '@saltswap/uikit'
 import React, { useCallback, useMemo, useState } from 'react'

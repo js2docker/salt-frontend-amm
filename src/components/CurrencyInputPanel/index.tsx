@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from '@pancakeswap-libs/sdk'
+import { Currency, Pair } from '@domgeswap-libs/sdk'
 import { Button, ChevronDownIcon, Text } from '@saltswap/uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'
